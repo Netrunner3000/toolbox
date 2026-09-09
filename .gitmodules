@@ -1,0 +1,9 @@
+[submodule "unblock_tracker"]
+	path = unblock_tracker
+	url = https://github.com/Netrunner3000/unblock_tracker.git
+[submodule "convert_epub"]
+	path = convert_epub
+	url = https://github.com/Netrunner3000/convert_epub.git
+[submodule "image_tools"]
+	path = image_tools
+	url = https://github.com/Netrunner3000/image_tools.git
